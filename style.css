@@ -1,0 +1,40 @@
+p {
+ font-size: 40px;
+ 
+ 
+}
+
+/* .h4 {
+    padding-left: 10px;
+} */
+
+#search-bar {
+   width:150px;
+   margin-left: -15px;
+   
+ 
+   
+}
+
+#weather-body {
+    height: 400px;
+    
+    
+    
+}
+
+#weather {
+    padding-right: 0px;
+}
+
+
+
+#search {
+    padding-right: 0px;
+}
+
+#card {
+    width: 150px;
+    height: 250px;
+    
+}
